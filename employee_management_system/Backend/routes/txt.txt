@@ -1,6 +1,0 @@
-1) Change Password 
-2) Update user detail
-3) Get employee list 
-4) Search and pagination on employee list API
-5) Get department list API
-6) Search and pagination on department list API 
